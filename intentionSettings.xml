@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language injection/Edit injected fragment" />
+    <ignoreAction name="SQL/Quote identifier" />
+  </component>
+</application>
