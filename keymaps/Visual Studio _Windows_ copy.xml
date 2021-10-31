@@ -1,0 +1,57 @@
+<keymap version="1" name="Visual Studio (Windows) copy" parent="Visual Studio">
+  <action id="ChangesView.AddUnversioned" />
+  <action id="ChangesView.Revert" />
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="DatabaseView.Tools.RevertChanges" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="EditorDeleteToWordEndInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl altGraph delete" />
+  </action>
+  <action id="EditorDeleteToWordStartInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl altGraph back_space" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl altGraph right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl altGraph right" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl altGraph left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl altGraph left" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
+  <action id="ExtractInterface">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="i" />
+  </action>
+  <action id="Git.Stage.Add" />
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl i" />
+  </action>
+  <action id="JumpToLastChange" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="RiderUnitTestFocusExplorerAction" />
+  <action id="RiderUnitTestRunContextTwAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="ShowUmlDiagramPopup" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl alt z" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
+  <action id="Unwrap" />
+  <action id="Vcs.RollbackChangedLines" />
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
+</keymap>
