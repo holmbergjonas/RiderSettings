@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="_headers" type="AUTO_DETECTED" />
       <mapping pattern="integration-tests-yml" type="AUTO_DETECTED" />
-      <mapping ext="snapshot" type="AUTO_DETECTED" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
